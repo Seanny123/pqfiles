@@ -1,0 +1,8 @@
+namespace: "sean"
+name: "pqfiles"
+version: "0.1.0"
+readme: "README.md"
+authors:
+  - "Sean Aubin"
+license: "MIT"
+repository: "https://github.com/sean/pqfiles"

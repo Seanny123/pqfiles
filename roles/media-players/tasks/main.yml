@@ -1,0 +1,8 @@
+- name: Alternernatives for common CLI and shell tools.
+  become: yes
+  package:
+      name: "{{ item }}"
+      state: present
+  loop:
+    - vlc
+    - strawberry
